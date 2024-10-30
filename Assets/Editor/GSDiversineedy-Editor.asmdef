@@ -1,0 +1,10 @@
+{
+  "name": "GSDiversineedy-Editor",
+  "references": [
+    "GSDiversineedy"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

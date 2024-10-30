@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSDiversineedy
+  title: Diversineedy
+  author: GhostSalt
+  description: 'In 1974, GS Electronics released a needy module designed to throw
+    off defusers with manuals. It could hold up to six custom-built components, which
+    could be set to do what the bomb setter wanted them to do. One setter gave it
+    lots of different sensors that could detect tampering, but accidentally detonated
+    the bomb while installing it. These modules still sometimes appear on modern-day
+    bombs, but setters now use pre-made, predictable components.
+
+
+    Really happy with how this needy turned out! Please play it! Needies are awesome!
+
+
+    Doesn''t currently have Twitch Plays support, and I''m not sure I want it to have
+    it. Too skill-based.'
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: a50457e4017007e4f8b0b0b91f548dec, type: 3}
